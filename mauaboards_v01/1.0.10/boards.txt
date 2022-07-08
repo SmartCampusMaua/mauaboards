@@ -6,7 +6,7 @@ menu.PartitionScheme=Partition Scheme
 menu.DebugLevel=Core Debug Level
 menu.PSRAM=PSRAM
 
-mauaboards.name=MauaBoards
+mauaboards.name=ESP32_Maua
 
 mauaboards.upload.tool=esptool_py
 mauaboards.upload.maximum_size=1310720

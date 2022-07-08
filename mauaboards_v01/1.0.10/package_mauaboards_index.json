@@ -17,13 +17,13 @@
           "url": "https://github.com/smartcampusmaua/mauaboards/releases/download/Release_v01/mauaboards_v01.zip",
           "archiveFileName": "mauaboards_v01.zip",
           "checksum": "",
-          "size": "55706827",
+          "size": "55706823",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "ESP32_Maua"
+              "name": "MauaBoards"
             }
           ],
           "toolsDependencies": [
