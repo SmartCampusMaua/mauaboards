@@ -11,7 +11,7 @@
 
 #### Atualmente existe um bug de criação de pastas onde o arquivo boards.txt é inserido no local errado:
 C:\Users\USUARIO\AppData\Local\Arduino15\packages\MauaBoards\hardware\esp32\1.0.10\1.0.10
-  |- esp32
+- |- esp32
     |- 1.0.10
       |- 1.0.10
         |- boards.txt
