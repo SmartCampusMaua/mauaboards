@@ -10,20 +10,20 @@
       },
       "platforms": [
         {
-          "name": "ESP32_Maua",
+          "name": "MauaBoards",
           "architecture": "esp32",
           "version": "1.0.10",
           "category": "ESP32",
-          "url": "https://github.com/caiobrunholi/testmauaboards/releases/download/test_02/MauaBoards_02.zip",
-          "archiveFileName": "MauaBoards_02.zip",
+          "url": "https://github.com/smartcampusmaua/mauaboards/releases/download/Release_v01/mauaboards_v01.zip",
+          "archiveFileName": "mauaboards_v01.zip",
           "checksum": "",
-          "size": "55878526",
+          "size": "55706827",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "MauaBoards"
+              "name": "ESP32_Maua"
             }
           ],
           "toolsDependencies": [
