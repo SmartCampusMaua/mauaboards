@@ -12,18 +12,18 @@ Inserir https://raw.githubusercontent.com/smartcampusmaua/mauaboards/main/mauabo
 ### Atualmente existe um bug de criação de pastas onde o arquivo boards.txt é inserido no local errado:
 ##### C:\Users\USUARIO\AppData\Local\Arduino15\packages\MauaBoards\hardware\esp32\1.0.10\1.0.10
   ```
-  |- esp32
-    |- 1.0.10
-      |- 1.0.10
-        |- boards.txt
-        |- ...
+  |_ esp32
+    |_ 1.0.10
+      |_ 1.0.10
+        |_ boards.txt
+        |_ ...
   ```
     
 ##### É necessário mover todos os arquivos desta pasta para:
 ##### C:\Users\USUARIO\AppData\Local\Arduino15\packages\MauaBoards\hardware\esp32\1.0.10
   ```
-  |- esp32
-    |- 1.0.10
-      |- boards.txt
-      |- ...
+  |_ esp32
+    |_ 1.0.10
+      |_ boards.txt
+      |_ ...
   ```
