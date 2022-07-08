@@ -1,4 +1,4 @@
-name=ESP32_Maua
+name=MauaBoards
 version=1.0.10
 
 
